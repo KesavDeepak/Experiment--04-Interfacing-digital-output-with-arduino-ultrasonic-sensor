@@ -58,8 +58,7 @@ speed of sound in the air at 20ºC (68ºF) = 343m/s
 
 
 ### PROGRAM 
-Done BY: KESAV DEEPAK SRIDHARAN
-REG NO: 212223230104
+
 ```c++
 const int trigPin = 10;
 const int echoPin = 9;
